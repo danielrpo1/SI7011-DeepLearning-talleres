@@ -6,7 +6,7 @@ Repositorio de entrega con los 4 talleres del curso **SI7011 – Deep Learning**
 |--------|------|---------|--------|
 | 1 | MLP (PyTorch) | [`taller-1-mlp/`](taller-1-mlp/) | Completado |
 | 2 | CNN – Tiny ImageNet | [`taller-2-cnn/`](taller-2-cnn/) | Completado |
-| 3 | RNN – series de tiempo | [`taller-3-rnn/`](taller-3-rnn/) | En progreso |
+| 3 | RNN – series de tiempo | [`taller-3-rnn/`](taller-3-rnn/) | Completado |
 | 4 | Transformers – TweetEval | [`taller-4-transformers/`](taller-4-transformers/) | Pendiente |
 
 ## Referencias
